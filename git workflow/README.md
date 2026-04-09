@@ -24,7 +24,7 @@ I used these tools and methods to complete this assignment:
 ##  3. Setup Instructions
 If you want to run this project on your computer:
 1. **Clone** this repository:  
-   `git clone [Your-Repo-Link]`
+   `git clone [My-Repo-Link]`
 2. Make sure you have **Git Bash** installed.
 3. Go to the project folder:  
    `cd devOps-Documentations/git-workflow`
