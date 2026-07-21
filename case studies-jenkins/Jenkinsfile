@@ -11,7 +11,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                dir('case-studies-jenkins/spring-boot-app') {
+                dir('case studies-jenkins/spring-boot-app') {
                     sh 'chmod +x mvnw'
                     sh './mvnw clean package'
                 }
